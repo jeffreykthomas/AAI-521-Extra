@@ -20,6 +20,14 @@ Optimization: DeepSpeed and Accelerate
 ## Challenges and Solutions
 
 ## Results
+![image1](angry_comparison.png)
+![image2](disgusted_comparison.png)
+![image3](fearful_comparison.png)
+![image4](happy_comparison.png)
+![image5](neutral_comparison.png)
+![image6](sad_comparison.png)
+![image7](surprised_comparison.png)
+![image8](contemptuous_comparison.png)
 
 ## Usage
 
